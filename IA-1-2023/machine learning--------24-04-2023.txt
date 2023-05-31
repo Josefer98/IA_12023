@@ -1,0 +1,31 @@
+machine learning--------24-04-2023
+conecciones de perceptrones 
+basicamente es enseñar a la computadora 
+utilizamos algunas formulas como:
+ecuacion de la recta : y=a+bx
+ejemplo del precio de la casa y su superficie:
+   y          x   
+precio-| superficie 
+ 123   |   17254
+ 244   |   21547
+ 334   |   32547
+ 434   |   25418
+ 534   |   12547 
+hay datos de entrenamiento y datos de prueba 
+lo primero que necesitamos son los datos:(txt,ccv,mat,xls)dataset
+GENERALMENTE SE USA EL 20% PARA PRUEBA Y EL 80% SE UTILIZA PARA EL ENTRENAMIENTO
+----------------------------------------------------------------------------------------
+08/05/2023
+en una regresión polinomica: se debe encontrar una ecuacion que se adecue a la a los puntos que se 
+generen.nota saber  las ecuaciones de la forma que se aduecue mejor a la regresion polinomica 
+ecuentre valores de theta utilizar el metodo analitico, cuadno se tiene bastantes datos, pregutarse:
+1el valor de x1-....xn tiene que ser menor al numero de datos y se aplica la formula theta=(xtranspuestapor x)-1 por Xtranspuesta por y.
+regresin logistica (clasificación)
+como se calcula tetha:se calcula mediante el decenso por el gradiente  
+---------------------------
+clasificacion one vs all. (multiclase)
+--------------------------
+un solo elemento de y vs los demas.para ejemplo 4 tipos de y
+se tendra 4 valores de theta.
+
+

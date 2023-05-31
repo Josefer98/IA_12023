@@ -1,0 +1,8 @@
+Nombre:Alfaro Ayzama José Fernando
+Carrera:Ing en Ciencias de la computación
+Grupo de Laboratorio:Lunes
+1.Magic Type AI(Crea poesia y musica)https://www.futurepedia.io/tool/magic-type-ai
+2.CasperAI(Resumir articulos)https://www.futurepedia.io/tool/casper-ai
+3.fliki(de texto a video)https://www.futurepedia.io/tool/fliki
+4.Scribble Difusion(refina un dibujo)https://www.futurepedia.io/ai-tools/fun-tools
+5.Arcwise AI(completa formulas en excel)https://www.futurepedia.io/tool/arcwise-ai

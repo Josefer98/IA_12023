@@ -1,0 +1,12 @@
+Nombres:José Fernando.
+Apellidos:Alfaro Ayzama.
+Carrera:Ciencias de la computacion.
+1.-REgresion lineal multivariable:
+eficiencia energetica:
+https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
+2.-REg.logistica Clasificacion binaria:
+datos de cancer:
+https://www.kaggle.com/datasets/erdemtaha/cancer-data?resource=download
+3.-Reg. log. Clasificacion multiclase:
+Clasificacion de flores:
+https://www.kaggle.com/datasets/sachgarg/iris-classification
